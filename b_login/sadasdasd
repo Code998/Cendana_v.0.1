@@ -1,0 +1,34 @@
+Jelaskan dengan menggunakan kata-kata sendiri perbedaan antara css inline.internal dan eksternal
+
+	Inline 		= suatu style yang ditaruh didalam tag html
+	Internal 	= style yang berada diantara head dan sebelum body
+	Eksternal	= memuat file yang berisikan style berkstensi .css
+
+sebutkan kekurangan dan kelebihan masing2 merode css diatas (inline, internal, eksternal)
+
+	Inline 		= 
+		- Kelebihan :
+			- Lebih mudah dicari
+		- Kekurangan
+			- Tidak rapi
+			- Tidak Flexible
+
+	Internal 	= 
+		- Kelebihan
+			- Simple
+		- Kekurangan
+			- Hanya terfokus pada 1 page saja
+			- Tidak Flexible
+
+	Eksternal	=
+		- Kelebihan
+			- Rapi
+			- Tidak banyak line
+		- Kekurangan
+			- Tidak ada
+
+Sebutkan kapan harus mengginakan css inline, internal, dan eksternal
+
+	Inline 		= Saat anda ingin mengganti suatu tag pada line tertentu
+	Internal 	= Saat anda hanya terfokus pada satu page
+	Eksternal	= Saat anda ingin merapikan suatu page
